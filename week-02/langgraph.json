@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "invoice_agent": "./05_react_prebuilt.py:agent"
+  },
+  "env": ".env"
+}
